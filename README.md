@@ -13,4 +13,3 @@ Hope you enjoy the writeups and feel free to get in touch with me if you have an
 **Note:** [TJ\_Null has updated the list](https://twitter.com/TJ_Null/status/1328380512960995331) to be more inline with the OSCP update. The following is the updated list and the boxes that I have completed from that list.
 
 ![](.gitbook/assets/screen-shot-2020-11-22-at-11.58.24-am.png)
-
